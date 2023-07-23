@@ -1,0 +1,57 @@
+body{
+    background-image: linear-gradient(to right, #EEE,#efefef);
+    background-color: #CFFDE1;
+    font-size: 18px;
+
+}
+
+.cities{
+    margin: 10% 0;
+}
+
+.fa-sun{
+    font-size: 2rem;
+    color:#E86A33 ;
+}
+
+.fa-magnifying-glass{
+  margin-left: 3rem;
+}
+.title{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 5rem;
+}
+
+.search{
+    border :2px solid #111;
+    padding: 1rem;
+    width: 15rem;
+}
+
+
+.logo{
+    width: 10rem;
+}
+
+.single-btn{
+    border: 2px solid #111;
+    margin-top: 5rem;
+}
+
+.single-btn:hover{
+    border: 2px solid #111;
+    background-color: rgb(230, 139, 65);
+    
+}
+
+.city{
+    border: 4px solid #111;
+    border-radius: 10%;
+    padding: 2rem;
+}
+
+footer{
+    background-color: #111;
+    color: #EEE;
+}
