@@ -9,7 +9,7 @@ var headers = ['city1Heading','city2Heading','city3Heading','city4Heading'];
 var contents = ['city1Content','city2Content','city3Content','city4Content'];
 
 
-var APIKey = "d8926c329c46bea9981415f94627872b";
+var APIKey = "";
 
 //var queryURL2 = "http://api.openweathermap.org/data/2.5/forecast?q=" + city + "&appid=" + APIKey;
 
